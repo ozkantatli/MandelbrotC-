@@ -1,0 +1,2 @@
+# MandelbrotC-
+Mandelbrot grafiği
